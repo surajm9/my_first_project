@@ -1,2 +1,4 @@
 Hello
-Test 123 file!
+test1
+line 3
+line 4 on test-merge
